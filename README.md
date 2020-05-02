@@ -30,8 +30,8 @@ then click save.
 - Click on the blue link to open it in tha browser. 
 - That is it, you are done.
 
-<h3>Example of the Html file saved in the Important Links folder created above</h3>:<br>
+<h3>Example of the Html file saved in the Important Links folder created above.</h3>:<br>
 <img src="images/thefilesavedinthefolder.png" width="400"><br>
 
-<h3>Example of the link and description of the link saved in the Html file</h3>:<br>
+<h3>Example of the link and description of the link saved in the Html file.</h3>:<br>
 <img src="images/thelinkanddescriptionintheforlder.png" width="400">
