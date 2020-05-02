@@ -25,9 +25,9 @@ then click save.
 <h3>Example</h3><br>
 <img src="images/savefilewhithtmlextension.png" width="600">
 
-- Open the folder where you saved the file and you will see a html file.
+- Open the folder where you saved the file and you will see a Html file.
 - Click on it to open that file in the browser and you will see the link you have saved plus the description of the link.
-- Click on the blue link to open it in tha browser. 
+- Click on the blue link to open it in the browser. 
 - That is it, you are done.
 
 <h3>Example of the Html file saved in the Important Links folder created above.</h3>:<br>
