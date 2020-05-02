@@ -10,8 +10,8 @@ as important.
 - Name the folder as you wish for example Important Links.
 - Open the program and introduce the link in the left input field and the description of that link in the right input field.
 
-<h3>Example</h3>:<br>
-<img src="images/addthelinkanddescription.png" width="400">
+<h3>Example</h3><br>
+<img src="images/addthelinkanddescription.png" width="600">
 
 <h3>Click the Add button</h3>.
 
@@ -22,8 +22,8 @@ website or if the the link is about your Facebook account type My Facebook Accou
 - <strong>It is very important</strong> after you typed the name of the link you must add dot ( .html ) to make that file an HTML file and
 then click save.
 
-<h3>Example</h3>:<br>
-<img src="images/savefilewhithtmlextension.png" width="400">
+<h3>Example</h3><br>
+<img src="images/savefilewhithtmlextension.png" width="600">
 
 - Open the folder where you saved the file and you will see a html file.
 - Click on it to open that file in the browser and you will see the link you have saved plus the description of the link.
@@ -31,7 +31,7 @@ then click save.
 - That is it, you are done.
 
 <h3>Example of the Html file saved in the Important Links folder created above.</h3>:<br>
-<img src="images/thefilesavedinthefolder.png" width="400"><br>
+<img src="images/thefilesavedinthefolder.png" width="600"><br>
 
 <h3>Example of the link and description of the link saved in the Html file.</h3>:<br>
-<img src="images/thelinkanddescriptionintheforlder.png" width="400">
+<img src="images/thelinkanddescriptionintheforlder.png" width="600">
